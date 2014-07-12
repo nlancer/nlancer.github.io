@@ -1,8 +1,13 @@
 ---
-published: false
-title: Hello world
+published: true
+title: 엔랜서의 출발
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/nlancer/nlancer.github.io](http://github.com/nlancer/nlancer.github.io). Be nice. Give credit. Share, don't steal :)
+## 엔랜서란?
 
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+전문 프리랜서가 하나의 팀을 이뤄 서로의 지식과 경험을 믹스해서 고객에게 새로운 가치를 전달하는 생태계 네트워크입니다.
+
+
+***큰 그림을 하나하나 만들어가는 마음으로***
+
+[엔랜서](http://nLancer.github.io)
